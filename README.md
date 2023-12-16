@@ -18,9 +18,9 @@ I walk through:
 
 This repo contains:
 
-example_node.py: The default ComfyUI example node code
-example2.py: The custom node code I create in the tutorial video
-readme.md: This getting started guide
+- example_node.py: The default ComfyUI example node code
+- example2.py: The custom node code I create in the tutorial video
+- readme.md: This getting started guide
 
 ## Getting Started
 
